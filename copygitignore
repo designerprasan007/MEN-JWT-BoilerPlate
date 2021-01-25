@@ -1,0 +1,17 @@
+PORT = 5000
+
+MONGO_URI = mongodb+srv://Codebug:<mongodbpassword>@cluster0.gds6j.mongodb.net/<collectionName>?retryWrites=true&w=majority
+
+
+JWT_SECRET = Your Jwt Secret;
+
+
+
+SENDINBLUE_EMAIL = sendblueemail
+
+SENDINBLUE_PASSWORD = sendbluePassword
+
+SENDINBLUE_PORT = 587
+
+SENDINBLUE_SERVER = smtp-relay.sendinblue.com
+
